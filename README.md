@@ -63,3 +63,34 @@ A suitable dataset ecosystem was finalized that supports customer journey analys
 
 ---
 
+# DAY-2 : PHASE 2:-
+### Day 2 – Data Understanding (Phase 2)
+Activities Completed:-
+- Imported all datasets into Jupyter Notebook
+- Performed shape analysis
+- Reviewed data types
+- Conducted missing value assessment
+- Verified duplicate records
+- Analyzed customer-event-transaction relationships
+- Investigated traffic source distribution
+- Evaluated campaign objectives and channels
+- Identified campaign_id = 0 as non-campaign (Organic/Direct) traffic
+- Verified attribution feasibility
+### Key Findings
+- 2 million customer interaction events available
+- 103,127 transaction records available
+- 100,000 unique customers available
+- Revenue data available for attribution analysis
+- No duplicate records found
+- Traffic source standardization required
+- Date columns require datetime conversion
+- Dataset fully supports:
+1. First-Touch Attribution
+2. Last-Touch Attribution
+3. Linear Attribution
+4. Revenue Attribution
+5. Executive Presentation
+- Project Documentation
+
+---
+
